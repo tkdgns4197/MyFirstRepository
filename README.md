@@ -1,3 +1,5 @@
 # MyFirstRepository
 
-My name is LeeSnagHun
+1. 201544020 이상훈 3-A
+
+2. 택배
